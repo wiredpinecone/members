@@ -32,3 +32,26 @@
     - twitter: ungoldman
     - site: http://ngoldman.me
     - email: nate@ngoldman.me
+
+ name: Jenny Stoffel
+
+  description: "NewB."
+  skills:
+    - Front End Development
+    - WordPress -> PHP, JavaScript, etc.
+    - HTML
+    - Content writing
+    - German to English translation
+    - deciding whether to learn Node.js or Swift next
+    
+  interests:
+    - Open source
+    - Environmental: trails, water
+  projects:
+    - census project
+    - tba
+  contact:
+    - github: wiredpinecone
+    - twitter: wiredpinecone
+    - site: http://www.wiredpinecone.com
+    - email: js@wiredpinecone.com
