@@ -32,3 +32,24 @@
     - twitter: ungoldman
     - site: http://ngoldman.me
     - email: nate@ngoldman.me
+    
+    name: JD Vorheis
+    image: https://avatars0.githubusercontent.com/u/859741?v=2&s=96
+    description: "UI/UX Designer"
+    skills:
+     - SASS
+     - HTML5
+     - CSS3
+     - jQuery
+     - Front-end Awesomeness
+    interests:
+     - Graphic Design
+     - Beaches
+     - The sun
+    projects:
+     - No personal projects at the moment
+    contact: 
+     - jdvorheis.me
+     - vectortronpdx.com
+     - jdvorheis@outlook.com
+     
