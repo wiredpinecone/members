@@ -1,0 +1,28 @@
+- name: Daniel Somerfield
+  skills:
+    - Java
+    - C++
+    - Scala
+    - Objective C
+    - SQL
+    - Gradle
+    - Maven
+    - sbt
+    - HTML
+    - "C#"
+    - Application Security
+    - Linux
+    - MacOS
+- name: Nate Goldman
+  description: "Code for Portland organizer working on making it easier for people to learn, contribute, and help each other out."
+  skills:
+    - JavaScript
+    - Ruby
+    - Front End Development
+    - Writing
+  interests:
+    - Open Data Standards
+    - Community Organizing
+    - Teaching
+  projects:
+    - Code for Portland Brigade Site

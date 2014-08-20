@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:title
+
+# Setup
+title:            Code for Portland
+url:              /
+baseurl:          '/members'
+paginate:         5
+
+author:
+  name:           'Code for Portland'
+  url:            https://codeforportland.org
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/CodeForPortland/members
+
+# Extra
+safe:             true #replicate gh-pages env
+timezone:         America/Los_Angeles
+encoding:         utf-8

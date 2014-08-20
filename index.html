@@ -1,0 +1,43 @@
+---
+layout: default
+title: Home
+---
+
+<div class="members">
+  {% for member in site.data.members %}
+    <div class="member">
+      <h2 class="member-name">{{ member.name }}</h2>
+
+      {% if member.description %}
+        <span class="member-description">{{ member.description }}</span>
+      {% endif %}
+
+      {% if member.skills %}
+        <h3>Skills</h3>
+        <ul>
+          {% for skill in member.skills %}
+            <li>{{ skill }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if member.interests %}
+        <h3>Interests</h3>
+        <ul>
+          {% for interest in member.interests %}
+            <li>{{ interest }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if member.interests %}
+        <h3>Projects</h3>
+        <ul>
+          {% for project in member.projects %}
+            <li>{{ project }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
