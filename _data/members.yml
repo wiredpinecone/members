@@ -14,6 +14,7 @@
     - Linux
     - MacOS
 - name: Nate Goldman
+  image: https://s.gravatar.com/avatar/532ad97fbf9402eaff6fb6c29ae5faf7?s=64
   description: "Code for Portland organizer working on making it easier for people to learn, contribute, and help each other out."
   skills:
     - JavaScript
@@ -26,3 +27,7 @@
     - Teaching
   projects:
     - Code for Portland Brigade Site
+  social:
+    - github: ngoldman
+    - twitter: ungoldman
+    - site: http://ngoldman.me
